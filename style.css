@@ -112,7 +112,7 @@ img{
 .home, .home2 {
     background: transparent url(images/bg_1.jpg) no-repeat fixed center;
     background-size: cover;
-    padding: 200px 10px;
+    padding: 220px 10px;
     text-align: center;
     box-shadow: 0 -2px 7px inset #0007;
 }
@@ -254,16 +254,16 @@ header .nav-icon {
     header .nav-menu {
         position: fixed;
         left: 50%;
-        top: 84px;
+        top: 49px;
         width: 85%;
-        height: 0px;
+        height: 2px;
         transform: translate(-50%);
         gap: 0;
         flex-direction: column;
-        background: #3939399f;
+        background: #393939;
         text-align: center;
         transition: 0.3s;
-        border-bottom: 1px solid #f5f5f5;
+        border-bottom: 3px solid #f5f5f5;
         box-shadow: 0px 5px 5px inset #0005;
         
     }
@@ -277,7 +277,7 @@ header .nav-icon {
         header .nav-menu.active {
             height: 225px;
             opacity: 100%;
-        top: 89px;
+            top: 44px;
         }
 p {
      font-size: 23px;
