@@ -223,7 +223,7 @@ button {
 header .nav-icon {
     display: none;
     cursor: pointer;
-    transform: translate(50px, 12px);
+    transform: translate(50px, 22px);
 }
     header .nav-icon .bar {
         display: block;
