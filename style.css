@@ -277,7 +277,6 @@ header .nav-icon {
         header .nav-menu.active {
             height: 225px;
             opacity: 100%;
-            top: 54px;
         }
 p {
      font-size: 23px;
