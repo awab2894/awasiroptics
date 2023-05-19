@@ -254,9 +254,9 @@ header .nav-icon {
     header .nav-menu {
         position: fixed;
         left: 50%;
-        top: 60px;
+        top: 89px;
         width: 85%;
-        height: 1px;
+        height: 0px;
         transform: translate(-50%);
         gap: 0;
         flex-direction: column;
