@@ -208,7 +208,7 @@ img{
 header .nav-icon {
     display: none;
     cursor: pointer;
-    transform: translate(50px, 12px);
+    transform: translate(50px, 22px);
 }
     header .nav-icon .bar {
         display: block;
@@ -239,7 +239,7 @@ header .nav-icon {
     header .nav-menu {
         position: fixed;
         left: 50%;
-        top: 54px;
+        top: 64px;
         width: 85%;
         height: 0px;
         transform: translate(-50%);
