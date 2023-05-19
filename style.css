@@ -254,16 +254,16 @@ header .nav-icon {
     header .nav-menu {
         position: fixed;
         left: 50%;
-        top: 54px;
+        top: 60px;
         width: 85%;
-        height: 2px;
+        height: 1px;
         transform: translate(-50%);
         gap: 0;
         flex-direction: column;
-        background: #393939;
+        background: #3939399f;
         text-align: center;
         transition: 0.3s;
-        border-bottom: 3px solid #f5f5f5;
+        border-bottom: 1px solid #f5f5f5;
         box-shadow: 0px 5px 5px inset #0005;
         
     }
