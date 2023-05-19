@@ -256,14 +256,14 @@ header .nav-icon {
         left: 50%;
         top: 54px;
         width: 85%;
-        height: 0px;
+        height: 2px;
         transform: translate(-50%);
         gap: 0;
         flex-direction: column;
         background: #3939399f;
         text-align: center;
         transition: 0.3s;
-        border-bottom: 1px solid #f5f5f5;
+        border-bottom: 3px solid #f5f5f5;
         box-shadow: 0px 5px 5px inset #0005;
         
     }
